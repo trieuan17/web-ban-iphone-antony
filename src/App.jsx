@@ -8,8 +8,8 @@ function App() {
   const [searchTerm, setSearchTerm] = useState('');
 
   // Thông tin cấu hình nhanh
-  const MY_PHONE = "0901234567";
-  const TELE_USER = "antony_apple";
+  const MY_PHONE = "0862524754";
+  const TELE_USER = "antbtdev";
 
   const categories = ['Tất cả', '12 Series', '13 Series', '14 Series', '15 Series', '16 Series'];
 
