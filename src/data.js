@@ -2,7 +2,7 @@ export const products = [
   // iPHONE 12 SERIES
   {
     id: 1, name: "iPhone 12 Pro Max", storage: "128Gb", category: "12 Series",
-    images: ["https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-pro-max-1.jpg","/image/iphone-12-pro-max-256gb-chinh-hang-dienmaycholon-1.jpg","/image/iphone-12-pro-max-256gb-chua-active-troi-bao-hanh-vi-anh-thuc-te-2.webp"],
+    images: ["/image/iphone12-128.jpg","/image/iphone-12-pro-max-256gb-chinh-hang-dienmaycholon-1.jpg","/image/iphone-12-pro-max-256gb-chua-active-troi-bao-hanh-vi-anh-thuc-te-2.webp"],
     variants: [
       { condition: "99Keng", price: 10500000 },
       { condition: "98.5", price: 10100000 },
@@ -12,7 +12,7 @@ export const products = [
   },
   {
     id: 2, name: "iPhone 12 Pro Max", storage: "256Gb", category: "12 Series",
-     images: ["https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-pro-max-1.jpg","/image/iphone-12-pro-max-256gb-chinh-hang-dienmaycholon-1.jpg","/image/iphone-12-pro-max-256gb-chua-active-troi-bao-hanh-vi-anh-thuc-te-2.webp"],
+     images: ["/image/iphone12-128.jpg","/image/iphone-12-pro-max-256gb-chinh-hang-dienmaycholon-1.jpg","/image/iphone-12-pro-max-256gb-chua-active-troi-bao-hanh-vi-anh-thuc-te-2.webp"],
     variants: [
       { condition: "99Keng", price: 11100000 },
       { condition: "98.5", price: 10700000 },
@@ -21,7 +21,7 @@ export const products = [
   },
   {
     id: 3, name: "iPhone 12 Pro Max", storage: "512Gb", category: "12 Series",
-    images: ["https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-pro-max-1.jpg","/image/iphone-12-pro-max-256gb-chinh-hang-dienmaycholon-1.jpg","/image/iphone-12-pro-max-256gb-chua-active-troi-bao-hanh-vi-anh-thuc-te-2.webp"],
+    images: ["/image/iphone12-128.jpg","/image/iphone-12-pro-max-256gb-chinh-hang-dienmaycholon-1.jpg","/image/iphone-12-pro-max-256gb-chua-active-troi-bao-hanh-vi-anh-thuc-te-2.webp"],
     variants: [
       { condition: "99Keng", price: 11300000 },
       { condition: "98.5", price: 10900000 },
@@ -32,7 +32,7 @@ export const products = [
   // iPHONE 13 SERIES
   {
     id: 4, name: "iPhone 13", storage: "256Gb", category: "13 Series",
-    images: ["https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-01.jpg", "/image/cam-iphone-13-pro-max-cu.jpg"],
+    images: ["/image/iphone-13-pro-cu-dep_1_.png", "/image/cam-iphone-13-pro-max-cu.jpg"],
     variants: [
       { condition: "99Keng", price: 10200000 },
       { condition: "98.5", price: 9800000 },
@@ -43,7 +43,7 @@ export const products = [
   // iPHONE 14 SERIES
   {
     id: 5, name: "iPhone 14 Pro Max", storage: "128Gb", category: "14 Series",
-    images: ["https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-14-pro-max-1.jpg", "/image/iphone_14_pro_max_purple_5.jpg"],
+    images: ["/image/14PM-den.jpg","/image/iphone-14-pro-max-128g-like-new-99-453-child-453.jpg", "/image/iphone_14_pro_max_purple_5.jpg"],
     variants: [
       { condition: "99Keng", price: 15000000 },
       { condition: "98.5", price: 14600000 },
@@ -52,7 +52,7 @@ export const products = [
   },
   {
     id: 6, name: "iPhone 14 Pro Max", storage: "256Gb", category: "14 Series",
-    images: ["https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-14-pro-max-1.jpg", "/image/iphone_14_pro_max_purple_5.jpg"],
+    images: ["/image/iphone14.jpg","/image/iphone-14-pro-max-128g-like-new-99-453-child-453.jpg", "/image/iphone_14_pro_max_purple_5.jpg"],
     variants: [
       { condition: "99Keng", price: 16000000 },
       { condition: "98.5", price: 15600000 },
@@ -63,7 +63,7 @@ export const products = [
   // iPHONE 15 SERIES
   {
     id: 7, name: "iPhone 15 Pro Max", storage: "256Gb", category: "15 Series",
-    images: ["https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-15-pro-max-1.jpg"],
+    images: ["/image/iphone-15-pro-max.png"],
     variants: [
       { condition: "99Keng", price: 19300000 },
       { condition: "98.5", price: 18900000 },
@@ -74,7 +74,7 @@ export const products = [
   // iPHONE 16 SERIES
   {
     id: 8, name: "iPhone 16 Pro Max", storage: "256Gb", category: "16 Series",
-    images: ["https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-1.jpg"],
+    images: ["/image/iphone16.png","/image/cac-mau-iphone-16-pro-max.png"],
     variants: [
       { condition: "99Keng", price: 24900000 },
       { condition: "98.5", price: 24500000 },
